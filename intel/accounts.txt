@@ -1,0 +1,2 @@
+# One Instagram handle per line, no @. Lines starting with # are ignored.
+# Pick accounts in your lane whose Reels you would actually copy a format from.
